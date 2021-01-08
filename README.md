@@ -8,6 +8,6 @@ https://github.com/ngocbaosp/TabPyAndKeras/blob/main/Install.md
 - Open project in python IDE (ex: Pycharm)
 - Run api/api.py
 - Run notebook/LSTMStock.ipynb to check the getStockPrice api
-- Open workbook/TestTabpyFunction.twb in Tableau Desktop to see the result (call the StockPricePredictApiOneCall function in the calculated field script) 
+- Open workbook/TestTabpyFunction.twb in Tableau Desktop to see the result (the workbook will call the StockPricePredictApiOneCall function in the calculated field script) 
 ## Ref
 - https://github.com/tableau/TabPy/issues/120
