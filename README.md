@@ -1,7 +1,7 @@
 # TabPy and Keras
 TabPy does not support Keras directly, so we will
- - Create an api to load Keras model (api/api.py)
- - Create and deploy the StockPricePredictApiOneCall function to TabPy server. This function will call the the getStockPrice api 
+ - Create an api to play with Keras model (api/api.py)
+ - Create and deploy a StockPricePredictApiOneCall function to TabPy server. This function will call the getStockPrice api
 ## Install & Configure TabPy
 https://github.com/ngocbaosp/TabPyAndKeras/blob/main/Install.md
 ## View Demo workbook
