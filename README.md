@@ -1,15 +1,7 @@
 # TabPy
 
 ## Install
-```
-pip install tabpy-server
-
-pip install tornado==5.1.1
-
-pip install -U scikit-learn
-
-```
-
+https://github.com/ngocbaosp/TabPyAndKeras/blob/main/Install.md
 ## Start TabPy Server
 - Go to folder: \venv\Lib\site-packages\tabpy_server
 - Run cmd: startup.bat
